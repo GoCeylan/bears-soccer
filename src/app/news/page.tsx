@@ -7,28 +7,13 @@ export const metadata: Metadata = {
     "Latest news and announcements from the Ottawa Bears Soccer Club.",
 };
 
-// Placeholder posts — replace with a CMS or MDX files when ready
 const posts = [
   {
-    slug: "welcome-2025-season",
-    title: "Welcome to the 2025 OCSL Season",
-    date: "2025-04-01",
+    slug: "welcome-2026-season",
+    title: "The 2026 OCSL Season is Coming",
+    date: "2026-03-26",
     excerpt:
-      "The new OCSL season is underway. All five Bears teams have registered and schedules are live on ocslonline.ca. Good luck to every squad this year!",
-  },
-  {
-    slug: "join-the-bears",
-    title: "Looking for Players — All Divisions",
-    date: "2025-03-15",
-    excerpt:
-      "We have openings across several teams heading into the new season. Whether you're a goalkeeper, midfielder, or striker, we want to hear from you. Drop us a message on the Contact page.",
-  },
-  {
-    slug: "ottawa-cup-legacy",
-    title: "Remembering the 2004 & 2005 Ottawa Cup Runs",
-    date: "2025-02-20",
-    excerpt:
-      "Twenty years on, we look back at the back-to-back Ottawa Cup Men's Recreational titles that put the Bears on the map. The winning culture lives on.",
+      "The new season is just around the corner. Stay tuned for schedule announcements, registration details, and more. We look forward to seeing everyone back on the pitch — Go Bears!",
   },
 ];
 
